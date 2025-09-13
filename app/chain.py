@@ -49,7 +49,12 @@ class Chain:
        (e.g., "improved efficiency by 20%", "led a $5M program").
     4. Clearly show enthusiasm for the company's mission/values from the description.
     5. Keep the tone professional but engaging.
-    6. End with a strong call-to-action to discuss further.
+    6. Do not write long senetce in a way like a user needs to scrool to the right break the sentence into two or more lines.
+    7. Include atmost 3 paragraphs.
+    8. Always keep the email concise and to the point (max 250 words).
+    9. Have an impactful language.
+    10. Inculde the skills and experience from the job description.
+    11. End with a strong call-to-action to discuss further.
 
     ### OUTPUT:
     A complete email with subject line, greeting, body, and closing.
